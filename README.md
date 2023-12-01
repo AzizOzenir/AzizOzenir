@@ -17,9 +17,9 @@
 Here are some ideas to get you started:
 I am a Frontend/Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey/Antalya.
 - 🔭 I’m currently working on React,Flutter projects
-- 🌱 I’m currently learning about Backend frameworks and rest api's  
+- 🌱 I’m currently learning about Next.js, React Native  
 - 👯 I’m looking to collaborate on any projects
-- 📫 How to reach me: Send email to greatozenir@gmail.com
+- 📫 How to reach me: Send email to zyzoznr@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
