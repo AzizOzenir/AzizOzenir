@@ -30,7 +30,7 @@ I am a Frontend specialized Web Developer Developer from Turkey/Antalya.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original.svg" title="tRPC" alt="tRPC" width="40" height="40"/>&nbsp;
 
 
 
