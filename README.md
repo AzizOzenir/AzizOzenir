@@ -37,6 +37,7 @@ I am a  Web Developer Developer from Turkey/Antalya.
   <img src="https://skillicons.dev/icons?i=express" width="40" title="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" title="Electron" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="40" title="Prisma" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original.svg" title="tRPC" alt="tRPC" width="40" height="40"/>&nbsp;
 </p>
 
