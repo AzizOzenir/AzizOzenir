@@ -9,30 +9,44 @@
 
 
 Here are some ideas to get you started:
-I am a Frontend specialized Web Developer Developer from Turkey/Antalya.
+I am a  Web Developer Developer from Turkey/Antalya.
 
-- 📫 How to reach me: Send email to ozenirDev@gmail.com
+### 🚀 About Me
 
-<p></p>
-<div>Languages</div>
-<div style={{display:"flex"}}>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JS" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+- 🌍 Based in Antalya, Turkey  
+- 👨‍💻 Specializing in **React**, **Next.js**, and **Electron**  
+- 📫 Reach me at: [ozenirDev@gmail.com](mailto:ozenirDev@gmail.com)  
 
-</div>
-<p></p>
-<div>Technologies</div>
-<div style={{display:"flex"}}>
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original.svg" title="tRPC" alt="tRPC" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="tRPC" width="40" height="40"/>&nbsp;
+### 🧠 Languages
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+</p>
 
+---
+
+### ⚙️ Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" title="Electron" />
+  <img src="https://raw.githubusercontent.com/trpc/trpc/main/www/public/logo-full.svg" width="60" title="tRPC" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzizOzenir&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizOzenir&layout=compact&theme=radical" height="180"/>
+</p>
 
 </div>
