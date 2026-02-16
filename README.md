@@ -15,7 +15,7 @@ I am a  Web Developer Developer from Turkey/Antalya.
 
 - 🌍 Based in Antalya, Turkey  
 - 👨‍💻 Specializing in **React**, **Next.js**, and **Electron**  
-- 📫 Reach me at: [ozenirDev@gmail.com](mailto:ozenirDev@gmail.com)  
+- 📫 Reach me at: [azizozenir0@proton.me](mailto:azizozenir0@proton.me)  
 
 ### 🧠 Languages
 
